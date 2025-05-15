@@ -1,4 +1,4 @@
-# lumigo-assignment
+# zest-assignment
 
 Instructions to execute the assigment:
 ```
